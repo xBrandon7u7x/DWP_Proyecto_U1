@@ -20,7 +20,7 @@ nav{
 
 body{
     background: url(background.jpg);
-    background-size: contain;
+    background-size: cover;
     
 }
 
